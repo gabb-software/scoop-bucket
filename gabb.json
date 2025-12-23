@@ -1,12 +1,12 @@
 {
-    "version": "0.9.81",
+    "version": "0.9.82",
     "description": "Fast local code indexing CLI for TypeScript, Rust, Kotlin, and C++ projects",
     "homepage": "https://github.com/gabb-software/gabb-cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gabb-software/gabb-cli/releases/download/v0.9.81/gabb-x86_64-pc-windows-msvc.zip",
-            "hash": "e74fb8e0b5d78b35f79589f80ef0086c76dd998ff0d069defab52cc15862fbdf"
+            "url": "https://github.com/gabb-software/gabb-cli/releases/download/v0.9.82/gabb-x86_64-pc-windows-msvc.zip",
+            "hash": "b4d5400274140fa691e61ca12dc784d216de249ed939c3431a71e594c87bc3d8"
         }
     },
     "bin": "gabb.exe",
